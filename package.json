@@ -1,0 +1,22 @@
+{
+  "name": "firecrawl-scraper",
+  "version": "1.0.0",
+  "description": "Web scraping skill for Claude using Firecrawl API",
+  "main": ".claude/skills/firecrawl-scraper/firecrawl-api.js",
+  "scripts": {
+    "test": "node .claude/skills/firecrawl-scraper/firecrawl-api.js --help"
+  },
+  "keywords": [
+    "firecrawl",
+    "scrape",
+    "crawl",
+    "claude",
+    "skill"
+  ],
+  "author": "BenedictKing",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BenedictKing/firecrawl-scraper.git"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "firecrawl-scraper",
+  "description": "Web scraping skill for Claude - scrape/crawl/map/batch-scrape via Firecrawl API",
+  "author": {
+    "name": "BenedictKing",
+    "url": "https://github.com/BenedictKing"
+  },
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BenedictKing/firecrawl-scraper.git"
+  },
+  "skills": [
+    ".claude/skills/firecrawl-scraper"
+  ],
+  "keywords": [
+    "firecrawl",
+    "scrape",
+    "crawl",
+    "extract",
+    "screenshot",
+    "pdf"
+  ],
+  "license": "MIT"
+}
