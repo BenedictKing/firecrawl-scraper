@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+English | [简体中文](./README_CN.md)
+
 Web scraping skill for Claude Code using [Firecrawl API](https://firecrawl.dev). Provides deep content extraction, format conversion, page interaction, and website crawling capabilities.
 
 ## Features

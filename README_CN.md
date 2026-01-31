@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[English](./README.md) | 简体中文
+
 基于 [Firecrawl API](https://firecrawl.dev) 的 Claude Code 网页抓取技能。提供深度内容提取、格式转换、页面交互和网站爬取能力。
 
 ## 功能特性
