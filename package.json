@@ -2,9 +2,9 @@
   "name": "firecrawl-scraper",
   "version": "1.0.0",
   "description": "Web scraping skill for Claude using Firecrawl API",
-  "main": ".claude/skills/firecrawl-scraper/firecrawl-api.js",
+  "main": ".claude/skills/firecrawl-scraper/firecrawl-api.cjs",
   "scripts": {
-    "test": "node .claude/skills/firecrawl-scraper/firecrawl-api.js --help"
+    "test": "node .claude/skills/firecrawl-scraper/firecrawl-api.cjs --help"
   },
   "keywords": [
     "firecrawl",
