@@ -1,6 +1,6 @@
 {
   "name": "firecrawl-scraper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Web scraping skill for Claude using Firecrawl API",
   "main": ".claude/skills/firecrawl-scraper/firecrawl-api.cjs",
   "scripts": {
