@@ -21,19 +21,25 @@ Web scraping skill for Claude Code using [Firecrawl API](https://firecrawl.dev).
 
 ## Installation
 
-### Option 1: Install via skills CLI (Recommended)
+### Option 1: Install via skill-master (Recommended)
 
 ```bash
 # Install globally to all detected agents (Claude Code, Cursor, Codex, etc.)
-npx skills add -g BenedictKing/firecrawl-scraper
+npx skill-master add -g BenedictKing/firecrawl-scraper
 
 # Or install to current project only
-npx skills add BenedictKing/firecrawl-scraper
+npx skill-master add BenedictKing/firecrawl-scraper
 ```
 
 The skill will be automatically installed and loaded by Claude Code.
 
-### Option 2: Manual Installation via Git Clone
+### Option 2: Install via skills CLI
+
+```bash
+npx skills add -g BenedictKing/firecrawl-scraper
+```
+
+### Option 3: Manual Installation via Git Clone
 
 1. Clone this repository to your Claude skills directory:
 ```bash
